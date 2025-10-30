@@ -66,7 +66,7 @@ export function SeccionSobreMi() {
             >
               <div className="relative mx-auto mb-8 h-48 w-48 overflow-hidden rounded-2xl border-4 border-primary/20 shadow-xl shadow-primary/20 lg:mb-0">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KSOOB22ENFE7TG5ZGQRWZHTRZE-1m9Cujv5G2gMc8jvswjTXFQK2Xp93i.avif"
+                  src="/istockphoto-1495088043-612x612.jpg"
                   alt="Agustín Blumenkranc"
                   fill
                   className="object-cover"
