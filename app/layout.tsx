@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "Agustín Blumenkranc - Desarrollador Web Frontend",
   description:
     "Portfolio de Agustín Blumenkranc, desarrollador web especializado en React, Next.js y experiencias de usuario accesibles.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
